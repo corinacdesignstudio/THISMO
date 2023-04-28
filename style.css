@@ -1,0 +1,45 @@
+h1{}
+
+                h2{
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 48px;
+      line-height: 58px;
+      /* identical to box height */
+
+
+      color: #0057FF;
+                }
+                h3{
+
+                }
+                p{
+                  font-size:13px;
+
+                  color:#fff;
+                }
+
+                #this_is_important{
+                  font-size:18px;
+                  color:red;
+                }
+
+                    #this_makes_happy{
+                  font-size:14px;
+                  color:pink;
+                }
+
+                .cat-photo{
+                    border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 5px;
+            width: 150px;
+
+                }html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
